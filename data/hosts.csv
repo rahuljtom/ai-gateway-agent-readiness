@@ -1,0 +1,21 @@
+host,vendor,kind
+getmaxim.ai,Bifrost (Maxim AI),marketing
+docs.getbifrost.ai,Bifrost (Maxim AI),docs
+litellm.ai,LiteLLM,marketing
+docs.litellm.ai,LiteLLM,docs
+portkey.ai,Portkey,marketing
+docs.portkey.ai,Portkey,docs
+openrouter.ai,OpenRouter,marketing
+www.helicone.ai,Helicone,marketing
+docs.helicone.ai,Helicone,docs
+truefoundry.com,TrueFoundry,marketing
+konghq.com,Kong,marketing
+developers.cloudflare.com,Cloudflare AI Gateway,docs
+vercel.com,Vercel AI Gateway,marketing
+traefik.io,Traefik Hub,marketing
+tyk.io,Tyk,marketing
+aigateway.envoyproxy.io,Envoy AI Gateway,docs
+docs.docker.com,Docker Model Runner,docs
+learn.microsoft.com,Azure API Management,docs
+www.f5.com,F5 AI Gateway,marketing
+cloud.google.com,Apigee,docs

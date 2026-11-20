@@ -1,0 +1,21 @@
+host,vendor,kind,home_status,robots_valid,blocks_any_ai,blocked_training,blocked_search,llms_txt,llms_full_txt,sitemap,markdown_on_request
+getmaxim.ai,Bifrost (Maxim AI),marketing,200,True,False,,,True,True,True,True
+docs.getbifrost.ai,Bifrost (Maxim AI),docs,200,True,False,,,True,True,True,True
+litellm.ai,LiteLLM,marketing,200,True,False,,,True,False,True,False
+docs.litellm.ai,LiteLLM,docs,200,True,False,,,True,True,True,False
+portkey.ai,Portkey,marketing,200,True,False,,,True,False,True,True
+docs.portkey.ai,Portkey,docs,200,False,False,,,False,False,False,True
+openrouter.ai,OpenRouter,marketing,200,True,False,,,True,True,True,True
+www.helicone.ai,Helicone,marketing,200,True,False,,,True,False,True,False
+docs.helicone.ai,Helicone,docs,0,False,False,,,False,False,False,False
+truefoundry.com,TrueFoundry,marketing,200,True,False,,,True,False,True,False
+konghq.com,Kong,marketing,200,True,False,,,True,False,True,False
+developers.cloudflare.com,Cloudflare AI Gateway,docs,200,True,False,,,True,True,True,True
+vercel.com,Vercel AI Gateway,marketing,200,True,False,,,True,False,True,True
+traefik.io,Traefik Hub,marketing,200,True,False,,,True,False,True,False
+tyk.io,Tyk,marketing,200,True,False,,,True,False,True,True
+aigateway.envoyproxy.io,Envoy AI Gateway,docs,200,True,False,,,True,True,True,False
+docs.docker.com,Docker Model Runner,docs,200,True,False,,,True,True,True,True
+learn.microsoft.com,Azure API Management,docs,200,True,False,,,False,False,False,False
+www.f5.com,F5 AI Gateway,marketing,200,True,False,,,False,False,True,False
+cloud.google.com,Apigee,docs,200,True,False,,,False,False,True,False
